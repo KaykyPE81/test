@@ -140,7 +140,7 @@ section{
   text-align: center;
 }
 
-.col-md-4 > h1,p{
+.col-sm-12 > h1,p{
   padding-top: 08px;
 }
 
