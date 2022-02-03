@@ -139,11 +139,10 @@ section{
   padding-top: 45px;
   text-align: center;
 }
-
-.col-sm-12 > h1,p{
-  padding-top: 08px;
+.col-md-4 > h1, p{
+  padding-top: 12px;
+  text-align: center;
 }
-
 .firstPic{
 
 }
